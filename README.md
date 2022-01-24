@@ -1,1 +1,1 @@
-# crazyauth
+# CrazyBot
